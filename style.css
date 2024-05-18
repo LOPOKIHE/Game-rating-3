@@ -27,3 +27,11 @@ a {
     padding: 5px;
     margin: 10px;
 }
+.animate__animated {
+  animation: pulse;
+  animation-duration: 2s;
+}
+img {
+    float: right;
+    border: 3px solid blue;
+}
